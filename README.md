@@ -1,4 +1,7 @@
 # Highseas-color-guessing.github
+
+
+Disclaimer: Made with the help of Tutorials and i changed the user interface and add some my own features and also take help of AI to solve some error. 
  
 Color Guessing Game With Heart Animation is a fun and interactive web based game where users guess the correct color from its RGB value. The Background features a delightful heart floating animation for a visually appealing experience. This project is created using HTML, CSS and Javascript.
 
